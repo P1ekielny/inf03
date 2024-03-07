@@ -26,4 +26,5 @@ Repozytorium dotyczące kwalifikacji inf03
 `git pull`
 
 #wylistowanie gałęzi
+
 `git branh`
