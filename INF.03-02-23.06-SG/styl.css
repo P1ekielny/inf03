@@ -1,0 +1,52 @@
+* {
+	font-family: Georgia;
+	text-align: center;
+}
+
+#banner, #footer {
+	background-color: #4BA3C7;
+	color: white;
+	height: 80px;
+	font-size: 120%;
+	clear: both;
+}
+
+#main-left, #main-right {
+	background-color: #EFEFEF;
+	height: 400px;
+	width: 25%;
+	float: left;
+}
+
+#main-middle {
+	background-color: #90CAF9;
+	height: 400px;
+	width: 50%;
+	float: left;
+}
+
+table {
+	margin-left: 10px;
+	width: 90%;
+	border: solid 1px #90CAF9; 
+}
+
+td {
+	padding: 5px;
+	width: 90%;
+	border: solid 1px #90CAF9;
+}
+
+tr:hover {
+	color: #90CAF9;
+}
+
+input[type="number"] {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+/*− 
+− Po wskazaniu kursorem myszy dowolnego wiersza tabeli zostaje zmieniony kolor tekstu w tym
+wierszu na #90CAF9
+− Dla selektora pola edycyjnego: margines zewnętrzny górny i dolny 15 px
+*/
