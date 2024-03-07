@@ -24,3 +24,6 @@ Repozytorium dotyczące kwalifikacji inf03
 #ściągnięcie ostatnich zmian z repo github.com
 
 `git pull`
+
+#wylistowanie gałęzi
+`git branh`
