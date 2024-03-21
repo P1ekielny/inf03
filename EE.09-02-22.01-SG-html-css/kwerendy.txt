@@ -1,0 +1,2 @@
+kw1
+SELECK * FROM pogoda WHERE miasta_id = 1 ORDER BY data_prognozyv ASC
